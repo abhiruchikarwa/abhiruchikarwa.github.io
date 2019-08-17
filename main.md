@@ -2,7 +2,6 @@
 
 [karwa.a@husky.neu.edu](mailto:karwa.a@husky.neu.edu) | [abhiruchikarwa](https://linkedin.com/in/abhiruchikarwa)
 
----
 
 ## Education
 
@@ -53,23 +52,17 @@ Software Engineer Co-op
 
 ## Academic Projects
 
-**1. Plagiarism Detection Application**
-
-Northeastern University
+**1. Plagiarism Detection Application** (Northeastern University)
 
 -   Developed an application in Java and AngularJS using agile methodology and test-driven development, for the faculty to infer the similarity percentage and matching pieces of code in the source code submitted by students.
 -   Deployed the web application on AWS that had three techniques in Java based on existing algorithms to detect code plagiarism; used Jira, SonarQube and Jenkins in the development process.
 
-**2. SportsDash**
-
-Northeastern University
+**2. SportsDash** (Northeastern University)
 
 -   Deployed a website on Heroku using React and Redux that provides comprehensive information for an NFL league.
 -   Utilized JPA to keep track of the user's data, store reusable data obtained from the external API and facilitate the back-end development of the website.
 
-**3. Twitter Sentiment Analysis**
-
-Government College of Engineering, Aurangabad
+**3. Twitter Sentiment Analysis** (Government College of Engineering, Aurangabad)
 
 -   Developed a project in R and Python to extract tweets using Twitter's REST API to analyze the sentiments pertaining to a keyword.
 -   Used Naïve Bayes classifier to generate a textual output classifying tweets as positive or negative and a graphical output representing the frequency of usage of the word.
